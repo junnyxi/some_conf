@@ -1,0 +1,30 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Feb 10 10:08:24 2017
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22685 8344 909404 890000) (desktop . "206") "wanglingran@test43x-nova.ops.corp.qihoo.net" nil nil ((((tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (foreground-color . "#e8e8d3") (cursor-color . "#b0d0f0") (tool-bar-lines . 0) (menu-bar-lines . 0) (vertical-scroll-bars) (background-color . "#151515") (font . "tty") (height . 64) (width . 200) (modeline . t) (unsplittable) (frameset--id . "C00F-C737-AB1A-BDB5") (frameset--mini t) (minibuffer . t)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 2) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 4) (min-pixel-width . 10) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 2) (min-pixel-height-safe . 1) (min-pixel-width-safe . 2)) leaf (pixel-width . 200) (pixel-height . 63) (total-width . 200) (total-height . 63) (normal-height . 1.0) (normal-width . 1.0) (buffer "init.el" (selected . t) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 1332) (start . 741))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("desktop" "flymake" "flyc" "flymake-check" "whitespace" "white" "whi" "project" "projecti	" "highlight-" "highlight-80" "hight" "hi" "boron" "fill" "col"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/home/wanglingran/.emacs.d/init.el" "~/.emacs.d/elpa/desktop+-20170107.1332/desktop+-autoloads.el" "~/.emacs.d/elpa/f-20161002.800/f-autoloads.el" "~/.emacs.d/elpa/s-20160928.636/s-autoloads.el" "~/.emacs.d/elpa/dash-20170207.2056/dash-autoloads.el" "~/workspace/phpwork/yuying_sdk/conf/nginx_dev_wanglingran.conf" "~/workspace/phpwork/yuying_sdk/application/modules/Group/controllers/" "/home/wanglingran/workspace/phpwork/yuying_sdk/application/modules/Group/controllers/Chat.php" "~/.emacs.d/init.el" "/home/wanglingran/project/goest/test.go" "~/project" "~/project/phpest/pest.php" "/home/wanglingran/project/phpest/tclass.php" "~/.emacs.d/elpa/flymake-0.4.16/flymake-autoloads.el" "~/project/phpest/tclass.php" "/home/wanglingran/.emacs.d/init.el" "~/.emacs.d/elpa/helm-flymake-20160609.1702/helm-flymake-autoloads.el" "~/workspace/phpwork/yuying_sdk/application/modules/Group/controllers/Channel.php" "~/.emacs.d/elpa/boron-theme-20150117.952/boron-theme.el" "/home/wanglingran/workspace/phpwork/yuying_sdk/application/modules/Group/controllers/Channel.php" "/home/wanglingran/project/phpest/guapi.php" "/data/log/vsdk.u.360.cn/crontab.log" "~/.emacs.d/elpa/color-theme-20080305.34/color-theme.el" "~/workspace/phpwork/yuying_sdk/application/modules/Group/controllers/Chat.php" "~/.emacs" "~/workspace/phpwork/yuying_sdk/application/modules/Chatroom/controllers/Inner.php" "/home/wanglingran/.emacs.d/elpa/boron-theme-20150117.952/boron-theme.el" "/home/wanglingran/.emacs.d/elpa/boron-theme-readme.txt" "~/workspace/phpwork/yuying_sdk/application/modules/Group/" "~/workspace/phpwork/yuying_sdk/application/modules/" "~/workspace/phpwork/yuying_sdk/" "~/.emacs.d/elpa/flymake-json-0.1/flymake-json-autoloads.el" "~/.emacs.d/elpa/flymake-python-pyflakes-0.9/flymake-python-pyflakes-autoloads.el" "~/.emacs.d/elpa/flymake-go-20150714.33/flymake-go-autoloads.el" "~/.emacs.d/elpa/hl-line+-20170101.1012/hl-line+-autoloads.el" "~/workspace/phpwork/yuying_sdk/application/modules/Live/controllers/" "~/workspace/phpwork/yuying_sdk/application/modules/Live/controllers/Index.php" "~/workspace/phpwork/yuying_sdk/application/models/Heart/Beat.php" "~/workspace/phpwork/yuying_sdk/application/modules/Tool/controllers/Shell.php" "~/workspace/phpwork/yuying_sdk/conf/rongcloud.php" "/home/wanglingran/.emacs.d/init-package.el" "~/.emacs.d/elpa/fill-column-indicator-readme.txt" "~/project/phpest/guapi.php" "~/.emacs.d/elpa/fill-column-indicator-20151030.1233/fill-column-indicator-autoloads.el" "~/workspace/phpwork/yuying_sdk/application/modules/Group/controllers/Common.php" "~/workspace/phpwork/yuying_sdk/back_webroot/amanda/css/style.default.css" "~/workspace/phpwork/yuying_sdk/.projectile" "~/#.vimrc#" "~/project/phpest/" "~/.emacs.d/elpa/psvn-20151103.1042/psvn-autoloads.el" "~/.emacs.d/elpa/helm-projectile-20170202.1000/helm-projectile-autoloads.el" "~/.emacs.d/elpa/projectile-20170106.606/projectile-autoloads.el" "~/.emacs.d/elpa/pkg-info-20150517.443/pkg-info-autoloads.el" "~/.emacs.d/elpa/epl-20150517.433/epl-autoloads.el" "~/.vimrc" "/home/wanglingran/.emacs" "~/project/yuyin-sdk/application/modules/Group/controllers/Channel.php" "/home/wanglingran/project/yuyin-sdk/application/modules/Chatroom/controllers/Inner.php" "~/.emacs.d/" "~/.emacs.d/elpa/sr-speedbar-20161025.131/sr-speedbar.el" "~/.emacs.d/init-package.el" "~/.emacs.d/elpa/sr-speedbar-20161025.131/sr-speedbar-autoloads.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/wanglingran/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(global-whitespace-mode linum-mode auto-complete-mode)
+  1332
+  '(1726 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix) (overwrite-mode) (fill-column . 2) (truncate-lines . t)))
+
